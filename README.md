@@ -1,2 +1,2 @@
-# Aprendizado
- Este é um repositório para fins educacionais. / This is a repository for educacional purposes.
+# Olá, pessoa!
+ Este é um repositório criado para fins educaionais. Peço que seja bastante atencioso nos aprendizados que serão disponibilizados.
